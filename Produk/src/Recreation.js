@@ -10,7 +10,7 @@ export default class Recreation extends React.Component {
   }
 
   getJsonData = () =>{
-    fetch('https://www.boredapi.com/api/activity/?key=5490351',
+    fetch('http://www.boredapi.com/api/activity/?key=5490351',
     {method:'GET'}).then((response) => response.json())
     .then((responseJson)=>{
       console.log(responseJson);

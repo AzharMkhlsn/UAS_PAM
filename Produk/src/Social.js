@@ -10,7 +10,7 @@ export default class Social extends React.Component {
   }
 
   getJsonData = () =>{
-    fetch('https://www.boredapi.com/api/activity/?type=social',
+    fetch('http://www.boredapi.com/api/activity/?type=social',
     {method:'GET'}).then((response) => response.json())
     .then((responseJson)=>{
       console.log(responseJson);

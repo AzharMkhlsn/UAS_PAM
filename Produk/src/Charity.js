@@ -10,7 +10,7 @@ export default class Charity extends React.Component {
   }
 
   getJsonData = () =>{
-    fetch('https://www.boredapi.com/api/activity/?type=charity',
+    fetch('http://www.boredapi.com/api/activity/?type=charity',
     {method:'GET'}).then((response) => response.json())
     .then((responseJson)=>{
       console.log(responseJson);

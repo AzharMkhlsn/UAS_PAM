@@ -14,3 +14,5 @@ edukasi, kegiatan amal, rekreasi, dan soial. jika user memilih salah satu genre 
 detail kegiatan akan ditampilkan secara random, dan jika user ingin mengganti maka harus kembali ke halaman genre lalu masuk kembali 
 maka akan secara otomatis mengganti kegiatan. dalam detail kegiatan terdapat beberapa informasi seperti nama kegiatan, genre, pengguna, dan harga.
 jika sudah sesuai maka user dapat memilih kegiatan tersebut dan akan ditampilkan jendela pemberitahuan.
+
+Link Github : https://github.com/AzharMkhlsn/UAS_PAM

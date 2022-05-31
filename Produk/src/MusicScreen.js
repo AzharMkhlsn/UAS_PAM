@@ -10,7 +10,7 @@ export default class MusicScreen extends React.Component {
   }
 
   getJsonData = () =>{
-    fetch('https://www.boredapi.com/api/activity/?type=music',
+    fetch('http://www.boredapi.com/api/activity/?type=music',
     {method:'GET'}).then((response) => response.json())
     .then((responseJson)=>{
       console.log(responseJson);

@@ -10,7 +10,7 @@ export default class Education extends React.Component {
   }
 
   getJsonData = () =>{
-    fetch('https://www.boredapi.com/api/activity/?type=education',
+    fetch('http://www.boredapi.com/api/activity/?type=education',
     {method:'GET'}).then((response) => response.json())
     .then((responseJson)=>{
       console.log(responseJson);

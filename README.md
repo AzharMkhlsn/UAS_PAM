@@ -16,3 +16,4 @@ maka akan secara otomatis mengganti kegiatan. dalam detail kegiatan terdapat beb
 jika sudah sesuai maka user dapat memilih kegiatan tersebut dan akan ditampilkan jendela pemberitahuan.
 
 Link Github : https://github.com/AzharMkhlsn/UAS_PAM
+Link APK    : https://drive.google.com/file/d/1RaQU_19Vz0PcnY0gueTojdApzYnyNB8a/view?usp=sharing
